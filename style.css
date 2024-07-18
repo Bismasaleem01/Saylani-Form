@@ -1,0 +1,407 @@
+#heading1{
+    color: brown;
+    font-weight: bold;
+    font-size: 18px;
+}
+#heading2{
+    color: brown;
+    font-size: small;
+}
+.topbox{
+    border: 10px soid green;
+}
+.image1{
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+}
+.image2{
+    height: 40px;
+    width: 40px;
+}
+.image3{
+    height: 40px;
+    width: 40px;
+}
+.main-logo{
+    width: 300px;
+    height: 70px;
+}
+.fb-logo{
+    float: left;
+    margin-top: 5px;
+    margin-left: 100px;
+    height: 30px;
+    width: 30px;
+    background-color:transparent ;
+}
+.insta-logo{
+    float: left;
+    margin-left: 0px;
+    height: 40px;
+    width: 40px;
+}
+.yt-logo{
+    float: left;
+    margin-left: -5px;
+    height: 42px;
+    width: 42px;
+}
+.register-heading{
+    margin-left: -230px;
+    font-size: 28px;
+    font-weight: bold;
+}
+.topbox{
+    background-color: rgb(217, 217, 217,0.9);
+    width: 1000px;
+    height: 150px;
+}
+.degree-logo{
+    width: 35px;
+    height: 28px;
+}
+.inner-box{
+    display: flex;
+    margin-right: -600px;
+    margin-top: -35px;
+    width: 130px;
+    height: 30px;
+    border: 1px solid #0d6db7 ;
+    border-radius: 50px;
+}
+.inner-box:hover{
+    background-color: white;
+
+}
+a{text-decoration: none;
+}
+.student-portal{
+    margin-top: 8px;
+    font-size: small;
+    color: #0d6db7;
+}
+
+.least-heading{
+    color: rgb(72, 71, 71);
+    font-size: small;
+}
+.h1{
+    color: green;
+    font-size: small;
+}
+.lblselect-city{
+    margin-left:-250px;
+    margin-top: 20px;
+    color: #0d6db7;
+    display: inline-block;
+    font-size: 15px;
+}
+
+#tfselect-city{
+    margin-top: 5px;
+     margin-left: 10px; 
+    border: 1px solid green;
+    border-radius: 3px;
+    padding: 15px;
+    font-size: 13px;
+    width: 400px; 
+    
+}
+.lblselect-course{
+    margin-top: 20px;
+    padding-left: 350px;
+    color: #0d6db7;
+}
+#tfselect-course{
+    margin-left: 20px;
+    margin-top: 5px;
+    border: 1px solid green;
+    border-radius: 3px;
+    padding: 15px;
+    font-size: 13px;
+    width: 400px; 
+}
+.lblselect-campus{
+    margin-left:-230px;
+    margin-top: 20px;
+    color: #0d6db7;
+    display: inline-block;
+    font-size: 15px;
+}
+#tfselect-campus{
+    margin-top: 5px;
+     margin-left: 10px; 
+    border: 1px solid green;
+    border-radius: 3px;
+    padding: 15px;
+    font-size: 13px;
+    width: 400px; 
+}
+.lblselect-class{
+    margin-top: 20px;
+    padding-left: 335px;
+    color: #0d6db7;
+}
+#tfselect-class{
+    margin-left: 20px;
+    margin-top: 5px;
+    border: 1px solid green;
+    border-radius: 3px;
+    padding: 15px;
+    font-size: 13px;    
+    width: 400px;
+}
+.lblname{
+    margin-left:-300px;
+    margin-top: 20px;
+    color: #0d6db7;
+    display: inline-block;
+    font-size: 15px;
+}
+.lblfname{
+    margin-top: 20px;
+    padding-left: 360px;
+    color: #0d6db7;
+}
+#tfname{
+    margin-top: 5px;
+     margin-left: 16px; 
+    border: 1px solid green;
+    border-radius: 3px;
+    padding: 15px;
+    font-size: 13px;
+    width: 370px;
+}
+#tff-name{
+    margin-left: 20px;
+    margin-top: 5px;
+    border: 1px solid green;
+    border-radius: 3px;
+    padding: 15px;
+    font-size: 13px;
+    width: 370px; 
+}
+.lblemail{
+    /* -300 */
+    margin-left:-340px;
+    margin-top: 20px;
+    color: #0d6db7;
+    display: inline-block;
+    font-size: 15px;
+}
+.lblphone{
+    margin-top: 20px;
+    padding-left: 380px;
+    color: #0d6db7;
+}
+#tfemail{
+    margin-top: 5px;
+    margin-left: 16px; 
+   border: 1px solid green;
+   border-radius: 3px;
+   padding: 15px;
+   font-size: 13px;
+   width: 370px;
+}
+#tfphone{
+    margin-left: 20px;
+    margin-top: 5px;
+    border: 1px solid green;
+    border-radius: 3px;
+    padding: 15px;
+    font-size: 13px;
+    width: 370px;
+}
+.lblcnic{
+    margin-left:-220px;
+    margin-top: 20px;
+    color:#0d6db7;
+    display: inline-block;
+    font-size: 15px;
+}
+.lblf-cnic{
+    margin-top: 20px;
+    padding-left: 380px;
+    color: #0d6db7;
+}
+#tfcnic{
+    margin-top: 5px;
+    margin-left: 16px; 
+   border: 1px solid green;
+   border-radius: 3px;
+   padding: 15px;
+   font-size: 13px;
+   width: 370px;
+}
+#tff-cnic{
+    margin-left: 20px;
+    margin-top: 5px;
+    border: 1px solid green;
+    border-radius: 3px;
+    padding: 15px;
+    font-size: 13px;
+    width: 370px;
+}
+.lbldate{
+    margin-left:-290px;
+    margin-top: 20px;
+    color: #0d6db7;
+    display: inline-block;
+    font-size: 15px;
+}
+.lblgender{
+    margin-top: 20px;
+    padding-left: 340px;
+    color: #0d6db7;
+}
+#tfdate{
+    margin-top: 5px;
+    margin-left: 10px; 
+   border: 1px solid green;
+   border-radius: 3px;
+   padding: 15px;
+   font-size: 13px;
+   width: 370px; 
+}
+#tfgender{
+    margin-left: 20px;
+    margin-top: 5px;
+    border: 1px solid green;
+    border-radius: 3px;
+    padding: 15px;
+    font-size: 13px;
+    width: 400px; 
+}
+.lbladdress{
+    margin-left:-750px;
+    margin-top: 20px;
+    color: #0d6db7;
+    display: inline-block;
+    font-size: 15px;
+}
+#tfaddress{
+    margin-top: 5px;
+    margin-left:15px; 
+   border: 1px solid green;
+   border-radius: 3px;
+   padding: 15px;
+   font-size: 13px;
+   width: 800px; 
+}
+.lblqualification{
+    margin-left:-700px;
+    margin-top: 20px;
+    color: #0d6db7;
+    display: inline-block;
+    font-size: 15px;
+}
+#tfqualification{
+    margin-top: 5px;
+    margin-left:    10px; 
+   border: 1px solid green;
+   border-radius: 3px;
+   padding: 15px;
+   font-size: 13px;
+   width: 830px;
+}
+.lblhave-laptop{
+    margin-left:-680px;
+    margin-top: 20px;
+    color: #0d6db7;
+    display: inline-block;
+    font-size: 15px;
+}
+#tfhave-laptop{
+    margin-top: 5px;
+    margin-left:15px; 
+   border: 1px solid green;
+   border-radius: 3px;
+   padding: 15px;
+   font-size: 13px;
+   width: 830px;
+}
+.lblphoto{
+    margin-left:-760px;
+    margin-top: 20px;
+    color: #0d6db7;
+    display: inline-block;
+    font-size: 15px;
+}
+.upload-box {
+    border-radius: 25px;
+    margin-left: -700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 120px;
+    border: 1px dashed rgb(147, 147, 195);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    cursor: pointer;
+    transition: border-color 0.3s, color 0.3s;
+}
+
+.upload-box:hover {
+    border-color: #0d6db7;
+}
+
+.upload-box input[type="file"] {
+    display: none;
+}
+.tfphoto{
+    
+    margin-left: -710px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    border: 1px dashed green;
+    display:block;
+    border-radius: 5px;
+    width: 80px;
+    height: 40px;
+}
+.tfphoto:hover{
+    border: 1px dashed #0d6db7;
+}
+#p1{
+    margin-left: -370px;
+    margin-top: -110px;
+}
+#p2{
+    margin-left: -360px;
+    margin-top: -15px;
+}
+#p3{
+    margin-left: -410px;
+    margin-top: -15px;
+}
+#p4{
+    margin-left: -310px;
+    margin-top: -15px;
+}
+#p5{
+margin-left: -210px;
+    margin-top: -15px;
+}
+#lastbox{
+    width: 850px;
+    margin-left: 200px;
+}
+button{
+    margin-left: 220px;
+    color: white;
+    background-color: #0d6db7;
+    width: 850px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+}
+select{
+    color: gray;
+}
